@@ -1,3 +1,4 @@
+
 # 📊 HR Analytics Interactive Dashboard | داشبورد تعاملی تحلیل داده‌های منابع انسانی
 
 [English](#english) | [فارسی](#persian)
@@ -46,10 +47,4 @@ This project delivers a comprehensive, 6-page interactive Power BI dashboard ana
 ۵. **رضایت و عملکرد (Satisfaction & Performance):** سنجش تعادل کار-زندگی، محیط کار و تأثیر آن بر بهره‌وری.
 ۶. **پیش‌بینی ریسک ترک خدمت (Flight Risk Model):** شناسایی نیروهای کلیدی در معرض خطر استعفا بر اساس الگوهای رفتاری.
 
----
 
-## 📷 Screenshots | تصاویر داشبورد
-
-| Overview / نمای کلی | Data Model / مدل داده |
-| :---: | :---: |
-| ![Overview](assets/dashboard_overview.png) | ![Data Model](assets/data_model.png) |
