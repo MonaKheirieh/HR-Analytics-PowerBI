@@ -1,4 +1,3 @@
-
 # 📊 HR Analytics Interactive Dashboard | داشبورد تعاملی تحلیل داده‌های منابع انسانی
 
 [English](#english) | [فارسی](#persian)
@@ -10,6 +9,13 @@
 
 ### 📌 Executive Summary
 This project delivers a comprehensive, 6-page interactive Power BI dashboard analyzing workforce dynamics based on the **IBM HR Analytics** dataset. It provides actionable business intelligence on employee retention, compensation fairness, performance metrics, and attrition risk modeling.
+
+### 🌐 Live Interactive Dashboard
+Experience the full 6-page interactive report directly in your browser:
+
+[![Live Demo](https://img.shields.io/badge/Power_BI-Live_Interactive_Demo-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiYWIzZmFhYjAtMDVmZC00YzE3LTgzOGUtNzBjNGMwMDY5NzkwIiwidCI6IjgxOWRiYjQ2LTg5YjUtNGQ0MS1hZjRhLTNjMjAxZDFmZWMxMCJ9&embedImagePlaceholder=true)
+
+> **Note:** No Power BI account or installation is required to interact with the live report.
 
 ### 🛠️ Tech Stack & Methodology
 * **Business Intelligence Tool:** Power BI Desktop
@@ -33,6 +39,11 @@ This project delivers a comprehensive, 6-page interactive Power BI dashboard ana
 ### 📌 خلاصه مدیریتی
 این پروژه شامل یک داشبورد ۶ صفحه‌ای و تعاملی در Power BI است که بر روی دیتاست **IBM HR Analytics** پیاده‌سازی شده است. هدف اصلی این داشبورد، ارائه راهکارهای داده‌محور برای پایش نگهداشت نیرو، تحلیل عدالت در پرداخت‌ها، سنجش عملکرد و شناسایی پیش‌دستانه ریسک ترک خدمت است.
 
+### 🌐 مشاهده آنلاین و تعاملی داشبورد
+شما می‌توانید نسخه تعاملی و ۶ صفحه‌ای این گزارش را مستقیماً در مرورگر خود تجربه کنید:
+
+🔗 **[مشاهده داشبورد تعاملی Power BI](https://app.powerbi.com/view?r=eyJrIjoiYWIzZmFhYjAtMDVmZC00YzE3LTgzOGUtNzBjNGMwMDY5NzkwIiwidCI6IjgxOWRiYjQ2LTg5YjUtNGQ0MS1hZjRhLTNjMjAxZDFmZWMxMCJ9&embedImagePlaceholder=true)** *(بدون نیاز به لاگین یا اکانت Power BI)*
+
 ### 🛠️ ابزارها و متدولوژی
 * **ابزار هوش کسب‌وکار:** Power BI Desktop
 * **مدل‌سازی داده:** الگوی Star Schema (۴ جدول: کارکنان، ترک خدمت، حقوق و مزایا، عملکرد)
@@ -46,5 +57,4 @@ This project delivers a comprehensive, 6-page interactive Power BI dashboard ana
 ۴. **حقوق و مزایا (Compensation):** ارزیابی عدالت پرداختی، حقوق ماهیانه و میانگین درآمدها بر اساس رده شغلی.
 ۵. **رضایت و عملکرد (Satisfaction & Performance):** سنجش تعادل کار-زندگی، محیط کار و تأثیر آن بر بهره‌وری.
 ۶. **پیش‌بینی ریسک ترک خدمت (Flight Risk Model):** شناسایی نیروهای کلیدی در معرض خطر استعفا بر اساس الگوهای رفتاری.
-
 
